@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ratheearya
-- 👀 I’m interested in getting better at programming and software engineering
-- 🌱 I’m currently learning python
 - 📫 How to reach me: https://www.linkedin.com/in/aryarathee/
 
 <!---
